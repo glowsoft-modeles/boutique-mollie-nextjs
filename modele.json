@@ -1,0 +1,7 @@
+{
+  "id": "boutique-mollie-nextjs",
+  "nom": "Boutique Mollie Next.js",
+  "cadriciel": "nextjs",
+  "categorie": "application",
+  "variables": ["MOLLIE_API_KEY"]
+}
